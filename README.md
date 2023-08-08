@@ -549,10 +549,10 @@ Terms and conditions for use, reproduction and distribution are under the [Apach
 
 <br>
 
-<center>
+<div align="center">
 <a href="https://github.com/kunjgit/GameZone/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kunjgit/GameZone" />
 </a>
-</center>
+</div>
 <br>
 <p align="right"><a href="#top">Back to top</a></p>
